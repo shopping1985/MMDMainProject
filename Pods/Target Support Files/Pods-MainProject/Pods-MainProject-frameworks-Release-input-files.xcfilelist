@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-MainProject/Pods-MainProject-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework
+${BUILT_PRODUCTS_DIR}/MMDHome/MMDHome.framework
+${BUILT_PRODUCTS_DIR}/MMDHomeCategory/MMDHomeCategory.framework
+${BUILT_PRODUCTS_DIR}/ZDUIComponent/ZDUIComponent.framework
+${BUILT_PRODUCTS_DIR}/ZDUtilComponent/ZDUtilComponent.framework
+${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework

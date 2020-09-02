@@ -1,0 +1,6 @@
+framework module MMDHomeCategory {
+  umbrella header "MMDHomeCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

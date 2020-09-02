@@ -1,0 +1,72 @@
+PODS:
+  - CTMediator (44)
+  - lottie-ios (2.5.3)
+  - MMDHome (0.1.0):
+    - MMDHome/home (= 0.1.0)
+    - MMDHome/rank (= 0.1.0)
+    - MMDHome/target (= 0.1.0)
+    - ZDUIComponent
+    - ZDUtilComponent
+  - MMDHome/home (0.1.0):
+    - MMDHome/rank
+    - ZDUIComponent
+    - ZDUtilComponent
+  - MMDHome/rank (0.1.0):
+    - ZDUIComponent
+    - ZDUtilComponent
+  - MMDHome/target (0.1.0):
+    - MMDHome/home
+    - MMDHome/rank
+    - ZDUIComponent
+    - ZDUtilComponent
+  - MMDHomeCategory (0.1.0):
+    - CTMediator
+  - ZDUIComponent (0.1.1):
+    - lottie-ios (= 2.5.3)
+    - ZDUIComponent/base-view (= 0.1.1)
+    - ZDUIComponent/base-viewcontroller (= 0.1.1)
+    - ZDUIComponent/common-view (= 0.1.1)
+    - ZDUtilComponent
+  - ZDUIComponent/base-view (0.1.1):
+    - lottie-ios (= 2.5.3)
+    - ZDUtilComponent
+  - ZDUIComponent/base-viewcontroller (0.1.1):
+    - lottie-ios (= 2.5.3)
+    - ZDUIComponent/base-view
+    - ZDUIComponent/common-view
+    - ZDUtilComponent
+  - ZDUIComponent/common-view (0.1.1):
+    - lottie-ios (= 2.5.3)
+    - ZDUtilComponent
+  - ZDUtilComponent (1.0.7):
+    - ZDUtilComponent/Categories (= 1.0.7)
+    - ZDUtilComponent/Helpers (= 1.0.7)
+  - ZDUtilComponent/Categories (1.0.7)
+  - ZDUtilComponent/Helpers (1.0.7)
+
+DEPENDENCIES:
+  - MMDHome
+  - MMDHomeCategory
+  - ZDUIComponent
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CTMediator
+    - lottie-ios
+  https://github.com/shopping1985/ZDSpec.git:
+    - MMDHome
+    - MMDHomeCategory
+    - ZDUIComponent
+    - ZDUtilComponent
+
+SPEC CHECKSUMS:
+  CTMediator: 933dba523da87bf875e4a7e8728945fbc512f1d2
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  MMDHome: d3b2f1a105001b77fceb8341268bcd5ccbbbfcb3
+  MMDHomeCategory: 19c38bda4fa8ed4c31c6b916211b9ef1ea21aa03
+  ZDUIComponent: bfe05732fd577d2062a6ba86e9d32e7033c2d801
+  ZDUtilComponent: f1cd1d91862469754ce417256e172bed4bae26bf
+
+PODFILE CHECKSUM: 0fa799bc3d0e0cacafa5bcbad59108bc0b0bebc0
+
+COCOAPODS: 1.9.1

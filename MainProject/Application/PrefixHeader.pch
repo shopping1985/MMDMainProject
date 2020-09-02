@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  MainProject
+//
+//  Created by linxiaoping on 2020/9/1.
+//  Copyright © 2020 fjzd. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <ZDUtilComponent/ZDUtilsComponent.h>
+#import <ZDUIComponent/ZDUIComponent.h>
+
+#endif /* PrefixHeader_pch */
